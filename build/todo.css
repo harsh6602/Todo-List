@@ -1,0 +1,12 @@
+#first_division
+{
+    text-align: center;
+    width: fit-content;   
+    height: fit-content;
+    background-color: gainsboro;
+}
+#inner_div
+{
+    margin-top: 50px;
+    border-bottom: 5px solid black;
+}

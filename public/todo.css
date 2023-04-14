@@ -1,0 +1,36 @@
+#first_division
+{
+    background-color: whitesmoke;
+}
+#first_division h3{
+    text-align: start;
+}
+#inputs
+{
+    text-align: center;
+}
+#inner_div
+{
+    margin-top: 50px;
+    border-bottom: 5px solid gainsboro;
+}
+#card_div
+{
+    margin-top: 25x;
+}
+#card_body
+{
+    display: inline-flex;
+}
+#delete_button
+{
+    text-align: right;
+}
+#card_element
+{
+    background:linear-gradient(5deg,white,lightpink,lightcyan,lightyellow)
+}
+#complete_div
+{
+border-bottom: 5px gainsboro solid;
+}
